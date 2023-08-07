@@ -1,0 +1,18 @@
+package exampleproject;
+
+
+public class exampleprogram {
+	
+	public static void main(String[] args) {
+		System.out.println("goodbye");
+		
+		
+	}
+	}
+		
+	}
+
+	
+
+
+}

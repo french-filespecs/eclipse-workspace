@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/Users/spencerjs18/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+364355689.index
+3522651253.index
